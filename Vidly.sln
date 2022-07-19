@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vidly", "Vidly\Vidly.csproj", "{705EAD6D-F235-4E1F-A70E-C15B9EC31A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyAPI", "VidlyAPI\VidlyAPI.csproj", "{BE2655E7-FBF2-44A2-8182-8224E8DBEA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705EAD6D-F235-4E1F-A70E-C15B9EC31A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705EAD6D-F235-4E1F-A70E-C15B9EC31A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705EAD6D-F235-4E1F-A70E-C15B9EC31A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705EAD6D-F235-4E1F-A70E-C15B9EC31A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2655E7-FBF2-44A2-8182-8224E8DBEA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2655E7-FBF2-44A2-8182-8224E8DBEA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2655E7-FBF2-44A2-8182-8224E8DBEA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2655E7-FBF2-44A2-8182-8224E8DBEA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819A47BB-47BB-4E5D-98DB-844E8D4EDF85}
+	EndGlobalSection
+EndGlobal

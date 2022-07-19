@@ -1,0 +1,48 @@
+﻿@model Vidly.ViewModel.CustomerFormViewModel
+@{
+    ViewData["Title"] = "CustomerForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <div class="card-body">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="Save" asp-controller="Customers" asp-antiforgery="true" method="post">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="Customer.Name"></label>
+                        <div>
+                            <input asp-for="Customer.Name" asp-action="Save" asp-controller="Customers" class="form-control" />
+                            <span asp-validation-for="Customer.Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Customer.MemberShipTypeId"></label>
+                        <select class="form-control" asp-for="Customer.MemberShipTypeId"
+                                asp-items="new SelectList(Model.MemberShipTypes,nameof(MemberShipType.Id),nameof(MemberShipType.Name))">
+                            <option>Select Your MemberShip Type</option>
+                        </select>
+                        <span asp-validation-for="Customer.MemberShipTypeId"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Customer.BirthDay"></label>
+                        <input asp-for="Customer.BirthDay" asp-action="Save" asp-controller="Customers" class="form-control" />
+                        <span asp-validation-for="Customer.BirthDay"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Customer.IsSubscribedToNewsLetter"></label>
+                        <input asp-for="Customer.IsSubscribedToNewsLetter" type="checkbox" asp-action="Save" asp-controller="Costomers" />
+                    </div>
+                    <br />
+                    <input hidden asp-for=Customer.Id />
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+            @section scripts
+            {
+            <script src="~/twitter-bootstrap/js/bootstrap.js"></script>
+            <partial name="_ValidationScriptsPartial"/>
+            }
+        </form>
+    </div>
+</div>

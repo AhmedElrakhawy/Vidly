@@ -1,0 +1,566 @@
+﻿++Solution 'Vidly' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Vidly.sln
+++Vidly
+i:{00000000-0000-0000-0000-000000000000}:Vidly
+++Connected Services 
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1198
+++Dependencies
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1197
+++Properties
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\properties\
+++launchSettings.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\properties\launchsettings.json
+++serviceDependencies.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\properties\servicedependencies.json
+++wwwroot
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\
+++bootstrap
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\
+++css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\css\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\js\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\
+++jquery
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\
+++dist
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\dist\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\dist\
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\
+++LICENSE.txt
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\license.txt
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++jquery-validation
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\
+++additional-methods.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++LICENSE.md
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\license.md
+++jquery-validation-unobtrusive
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\favicon.ico
+++Areas
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\areas\
+++Identity
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\areas\identity\
+++Pages
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\areas\identity\pages\
+++Controllers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\
+++CustomersController.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\customerscontroller.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\api\customerscontroller.cs
+++HomeController.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\homecontroller.cs
+++MoviesController.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\moviescontroller.cs
+++Data
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\
+++Migrations
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\
+++ApplicationDbContext.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\applicationdbcontext.cs
+++Models
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\
+++Customer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\customer.cs
+++ErrorViewModel.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\errorviewmodel.cs
+++Genre.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\genre.cs
+++MemberShipType.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\membershiptype.cs
+++Min18YearsIfAMember.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\min18yearsifamember.cs
+++Movie.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\models\movie.cs
+++ViewModel
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\viewmodel\
+++CustomerFormViewModel.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\viewmodel\customerformviewmodel.cs
+++MovieFormViewModel.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\viewmodel\movieformviewmodel.cs
+++Views
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\
+++Customers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\customers\
+++CustomerForm.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\customers\customerform.cshtml
+++Details.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\customers\details.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\movies\details.cshtml
+++Index.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\customers\index.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\movies\index.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\home\index.cshtml
+++Home
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\home\
+++Movies
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\movies\
+++MovieForm.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\movies\movieform.cshtml
+++Shared
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\shared\
+++_Layout.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\_viewstart.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\appsettings.json
+++appsettings.Development.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\appsettings.development.json
+++libman.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\libman.json
+++Program.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\program.cs
+++Startup.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\startup.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1222
+++Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:analyzers
+++Frameworks
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:frameworks
+++Packages
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:packages
+++serviceDependencies.local.json
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\properties\servicedependencies.local.json
+++scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\
+++site.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\css\site.css
+++site.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\js\site.js
+++LICENSE
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\license
+++jquery.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.unobtrusive.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++00000000000000_CreateIdentitySchema.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\00000000000000_createidentityschema.cs
+++20220315181949_CreatingCustomersTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220315181949_creatingcustomerstable.cs
+++20220316174300_AddIsSubscribedToCustomer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316174300_addissubscribedtocustomer.cs
+++20220316175238_AddMemberShipType.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316175238_addmembershiptype.cs
+++20220316175809_PopulateMemberShipType.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316175809_populatemembershiptype.cs
+++20220317210909_ApplyAnnotationToCustomerName.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317210909_applyannotationtocustomername.cs
+++20220317223433_AddColumnNameToMemberShipTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317223433_addcolumnnametomembershiptable.cs
+++20220317232245_AddBirthdayColumnToCustomerTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317232245_addbirthdaycolumntocustomertable.cs
+++20220317232651_UpdateBirthdayColumn.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317232651_updatebirthdaycolumn.cs
+++20220318080312_MoviesTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220318080312_moviestable.cs
+++20220318081815_MakeNumberInStockColumnMovieTableNullable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220318081815_makenumberinstockcolumnmovietablenullable.cs
+++20220319174738_ApplyDataAnnotationsToCustomerTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220319174738_applydataannotationstocustomertable.cs
+++20220323124327_AddGenreTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220323124327_addgenretable.cs
+++20220323133110_AddGenreIdColumnToMoviesTable.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220323133110_addgenreidcolumntomoviestable.cs
+++20220324143044_UpdatingMovieAnnotation.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220324143044_updatingmovieannotation.cs
+++20220324172749_UdatingCustomerTableDataAnnotations.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220324172749_udatingcustomertabledataannotations.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\applicationdbcontextmodelsnapshot.cs
+++Privacy.cshtml
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\views\home\privacy.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\users\soft\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\users\soft\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:c:\users\soft\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\microsoft.netcore.app
+++linq2db (3.6.0)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1221
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1215
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1217
+++Microsoft.AspNetCore.Identity.UI (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1220
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1213
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1214
+++Microsoft.EntityFrameworkCore.Tools (5.0.14)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1218
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1219
+++System.Linq (4.3.0)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1216
+++bootstrap.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-luman.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-luman.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-luman.css
+++bootstrap-reboot.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.css
+++bootstrap.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++forms
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\
+++helpers
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\
+++mixins
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\
+++utilities
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\utilities\
+++vendor
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\vendor\
+++_accordion.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_alert.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_buttons.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_close.scss
+++_containers.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_forms.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_grid.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_helpers.scss
+++_images.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_images.scss
+++_list-group.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_list-group.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_list-group.scss
+++_mixins.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_pagination.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_pagination.scss
+++_placeholders.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_placeholders.scss
+++_popover.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_popover.scss
+++_progress.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_utilities.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\bootstrap-utilities.scss
+++jquery.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.validate.unobtrusive.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\00000000000000_createidentityschema.designer.cs
+++20220315181949_CreatingCustomersTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220315181949_creatingcustomerstable.designer.cs
+++20220316174300_AddIsSubscribedToCustomer.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316174300_addissubscribedtocustomer.designer.cs
+++20220316175238_AddMemberShipType.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316175238_addmembershiptype.designer.cs
+++20220316175809_PopulateMemberShipType.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220316175809_populatemembershiptype.designer.cs
+++20220317210909_ApplyAnnotationToCustomerName.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317210909_applyannotationtocustomername.designer.cs
+++20220317223433_AddColumnNameToMemberShipTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317223433_addcolumnnametomembershiptable.designer.cs
+++20220317232245_AddBirthdayColumnToCustomerTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317232245_addbirthdaycolumntocustomertable.designer.cs
+++20220317232651_UpdateBirthdayColumn.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220317232651_updatebirthdaycolumn.designer.cs
+++20220318080312_MoviesTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220318080312_moviestable.designer.cs
+++20220318081815_MakeNumberInStockColumnMovieTableNullable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220318081815_makenumberinstockcolumnmovietablenullable.designer.cs
+++20220319174738_ApplyDataAnnotationsToCustomerTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220319174738_applydataannotationstocustomertable.designer.cs
+++20220323124327_AddGenreTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220323124327_addgenretable.designer.cs
+++20220323133110_AddGenreIdColumnToMoviesTable.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220323133110_addgenreidcolumntomoviestable.designer.cs
+++20220324143044_UpdatingMovieAnnotation.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220324143044_updatingmovieannotation.designer.cs
+++20220324172749_UdatingCustomerTableDataAnnotations.Designer.cs
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\data\migrations\20220324172749_udatingcustomertabledataannotations.designer.cs
+++bootstrap.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.rtl.css
+++bootstrap-luman.css.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-luman.css.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-luman.css.css
+++bootstrap-reboot.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.bundle.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++_floating-labels.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_clearfix.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_clearfix.scss
+++_colored-links.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_ratio.scss
+++_stacks.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_stacks.scss
+++_stretched-link.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_visually-hidden.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_visually-hidden.scss
+++_vr.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\helpers\_vr.scss
+++_backdrop.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_backdrop.scss
+++_border-radius.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\utilities\_api.scss
+++_rfs.scss
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\scss\vendor\_rfs.scss
+++jquery.min.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.bundle.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.bundle.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.min.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.bundle.min.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\wwwroot\bootstrap\js\bootstrap.esm.min.js.map
+++NewFolder
+++API
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:d:\my work\projects\vidly\vidly\controllers\api\
+++CutomersController.cs
+++Boxed.AspNetCore (7.0.0)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1238
+++Microsoft.AspNet.WebApi.Core (5.2.7)
+i:{705ead6d-f235-4e1f-a70e-c15b9ec31a87}:>1239

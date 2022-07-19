@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "705ead6d-f235-4e1f-a70e-c15b9ec31a87": {
+      "ProjectGuid": "705ead6d-f235-4e1f-a70e-c15b9ec31a87",
+      "DisplayName": "Vidly",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e097d6c0-65b7-459b-801b-42aa98f1abc6": {
+      "ProjectGuid": "e097d6c0-65b7-459b-801b-42aa98f1abc6",
+      "DisplayName": "VidlyAPI",
+      "ColorIndex": 1
+    },
+    "be2655e7-fbf2-44a2-8182-8224e8dbea55": {
+      "ProjectGuid": "be2655e7-fbf2-44a2-8182-8224e8dbea55",
+      "DisplayName": "VidlyAPI",
+      "ColorIndex": 2
+    },
+    "2612e789-9465-4e22-b3a7-49705ebdc6b3": {
+      "ProjectGuid": "2612e789-9465-4e22-b3a7-49705ebdc6b3",
+      "DisplayName": "VidlyWeb",
+      "ColorIndex": 3
+    },
+    "1440f82c-4074-429b-8e55-1adccfce724b": {
+      "ProjectGuid": "1440f82c-4074-429b-8e55-1adccfce724b",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,20 @@
+﻿@model User
+<form method="post" class="form-control">
+    <div asp-validation-summary="All"></div>
+    <div>
+    <input asp-for="UserName" type="text" placeholder="User Name" class="form-control" />
+    <span asp-validation-for="UserName"></span>
+    </div>
+    <br />
+    <div>
+    <input asp-for="Password" type="password" placeholder="Passward" class="form-control"/>
+    <span asp-validation-for="Password"></span>
+    </div>
+    <br />
+    <div>
+    <input asp-for="Password" type="email" placeholder="Email" class="form-control" />
+    <span asp-validation-for="Email"></span>
+    </div>
+    <br />
+    <button type="submit" value="submit" class="btn btn-primary">Login</button>
+</form>
